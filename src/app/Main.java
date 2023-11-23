@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        String[] products = {"Milk", "Bread", "Apples", "Cookies", "Cheese", "Milk", "Juice"};
+        String[] products = {"Вино", "Молоток", "Яблоки", "Вівсяне Печиво", "Персики", "Яблоки", "Сік"};
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Нумерований перелік товарів:");
